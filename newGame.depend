@@ -1,0 +1,20 @@
+# depslib dependency file v1.0
+1673285432 source:c:\newgame\main.cpp
+	<iostream>
+	<winbgim.h>
+	<stdlib.h>
+	<conio.h>
+	<dos.h>
+	<graphics.h>
+	<mmsystem.h>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\winbgim.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1266090614 c:\program files (x86)\codeblocks-ep\sdk\winbgim\include\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
